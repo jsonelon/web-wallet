@@ -73,6 +73,7 @@ new Vue({
         }
       ],
       chainListShow: false,
+      chainNodeListShow: false
     }
   },
   methods: {
